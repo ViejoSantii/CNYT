@@ -1,9 +1,9 @@
-             CALCULADORA DE NUMEROS COMPLEJOS
+                CALCULADORA DE NUMEROS COMPLEJOS
 
 Este programa realiza operaciones con numeros complejos y son:
 La adicion, sustraccion, multiplicacion, division, producto por escalar,
 modulo, conjugado, inversa, representacion polar a cartesiana y viceversa.
-
+                          COMIENZO
 La entrada de cada funcion son tuplas (x,y) donde "x" representa la parte real "y" 
 la parte imaginaria.
 
