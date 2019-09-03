@@ -63,5 +63,5 @@ PRODUCTO INTERNO: Trace(A† ⋆ B)
 
 ## Casos de prueba
 
-Hay pruebas en el archivo "pruebas" donde se encuentra la funcion que verifica casos bases.
+Hay pruebas en el archivo "pruebas" donde se encuentra la funcion que verifica casos bases. Solamente se corre el programa y automaticamente verifica todas las operaciones, dando como resultado el numero de pruebas probadas y todo este OK.
 
