@@ -38,7 +38,6 @@ PRODUCTO INTERNO: ⟨V1, V2⟩ = V† ⋆ V2
 ```
 ## Matrices con números complejos
 
-The second part is composed for addition, subtraction, product, scalar, traspouse, conjugate, adjoint, inverse, trace, identity, equals, unitary, hermitiania, action, inner product; on matrix.
 La tercera parte esta compuesta por la adición, sustracción, escalar, traspuesta, conjugado, adjunta, inversa, identidad, igualdad de matrices, unitaria, hermitian, acción, producto interno, en matrices.
 
 ```
