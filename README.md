@@ -5,10 +5,6 @@ Este proyecto es acerca de las operaciones con complejos de ecuaciones, matrices
 
 Cada funcion lee tuplas "(a,b)", donde "a" representa la parte real y "b" representa la parte imaginaria.
 
-------------
-
-[readme](https://github.com/ViejoSantii/CNYT/upload/master "readme")
-
 ## Ecuaciones con números complejos
 
 La parte inicial esta compuesta por la adición, sustracción, división, producto, conjugado, modulo, conversión de cartesiano a polar y viceversa, con números complejos.
