@@ -224,7 +224,7 @@ def traspuesta_matrices (m):
 
 def conjugado_matrices (m):
      '''m = [[(c1, c2)], [(c1, c2)],...,[(c1, c2)]]
-        matrix ---> matrix'''
+        matriz ---> matriz'''
      mat = []
      for i in range (len (m)):
           line = []
