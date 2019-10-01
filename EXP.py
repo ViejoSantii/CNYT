@@ -73,3 +73,15 @@ def bullets(m, v, N):
         n = Mproducto (mat_n, m)
         mat_n = n
     return (Mproducto (mat_n, Mtraspuesta(v)))
+def count_bullets (m, N):
+     '''m = [[(c1, c2)], [(c1, c2)],...,[(c1, c2)]], v = [(c1, c2), (c1, c2),...,(c1, c2)] N = int; (m ** N) * v = V; matrix, vector, int ---> vector'''
+          mat_n = m
+          for i in range (1, N):
+               n = m_product (mat_n, m)
+               mat_n = n
+          n = m
+          for i in range (len (m)):
+               for k in range (len (m [0])):
+                    solve = (m [i][k][0]**2 + m [i][k][1]**2)
+                    n [i][k] = solve
+          return n
