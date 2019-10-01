@@ -77,7 +77,7 @@ def count_bullets (m, N):
      '''m = [[(c1, c2)], [(c1, c2)],...,[(c1, c2)]], v = [(c1, c2), (c1, c2),...,(c1, c2)] N = int; (m ** N) * v = V; matrix, vector, int ---> vector'''
           mat_n = m
           for i in range (1, N):
-               n = m_product (mat_n, m)
+               n = Mproduct (mat_n, m)
                mat_n = n
           n = m
           for i in range (len (m)):
